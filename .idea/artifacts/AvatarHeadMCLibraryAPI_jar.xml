@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="AvatarHeadMCLibraryAPI:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/AvatarHeadMCLibraryAPI_jar</output-path>
-    <root id="archive" name="AvatarHeadMCLibraryAPI.jar">
-      <element id="module-output" name="AvatarHeadMCLibraryAPI" />
-    </root>
-  </artifact>
-</component>
